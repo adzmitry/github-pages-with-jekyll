@@ -1,3 +1,10 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Here is some info for blog
+
+  ```C
+  int example_func(int *val, void *ptr){
+    *val = atoi(ptr);
+    return 0;
+  }
+  ```
